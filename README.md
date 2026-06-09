@@ -85,22 +85,6 @@
 
 ---
 
-## 🚀 Projects
-
-### 🛒 [Agentic System for Intelligent Retail Operations](https://github.com/SriramLakumarapu/cmpe-295a-masters-project)
-Multi-agent AI platform using **LangGraph + LangChain + FastAPI** — automates retail inventory, pricing & demand workflows with RAG-grounded decision pipelines and a human-in-the-loop dashboard.
-`Python` `LangGraph` `LangChain` `FastAPI` `React` `RAG`
-
-### 🎓 StudyPilot – AI Study Dashboard
-Full-stack AI study assistant with **Azure OpenAI GPT-5** — SSE-streamed study plans, AI todo suggester, assignment tutor & voice assistant (Azure Neural STT/TTS). 19 APIs, JWT auth, multi-tenant isolation.
-`Next.js` `Node.js` `Azure OpenAI` `Voice AI` `Docker`
-
-### 💼 CareerPilot – AI Career Platform
-AI mock interview engine with **Cartesia TTS + Deepgram STT**, resume optimizer with ATS scoring & diff view, provider-agnostic LLM dispatcher (Azure OpenAI / Anthropic), 6 Docker services.
-`Next.js 15` `Spring Boot` `Cartesia` `Deepgram` `Anthropic`
-
----
-
 ## 🏅 Certifications & Awards
 
 - 🏆 [AWS Solutions Architect – Associate](https://aws.amazon.com/certification/)
