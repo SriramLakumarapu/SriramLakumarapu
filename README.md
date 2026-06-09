@@ -21,12 +21,13 @@
 
 ## 💼 Experience
 
-### 🔶 Oracle — Software Engineer *(2+ Years)*
+### 🔶 Oracle — Full Stack Developer *(2 Years)*
 - Built and maintained **cloud-native microservices** on Oracle Cloud Infrastructure (OCI)
 - Developed **REST APIs** with Java & Spring Boot serving millions of enterprise requests
+- Built **React + TypeScript** frontends for internal enterprise dashboards
 - Worked with **Oracle Autonomous Database**, OCI Object Storage, and Identity services
 - Contributed to internal AI tooling with Oracle AI / Generative AI services
-- Delivered features end-to-end across backend, CI/CD (Jenkins), and deployment pipelines
+- Delivered features end-to-end: UI → API → database → CI/CD (Jenkins) → production
 
 ---
 
